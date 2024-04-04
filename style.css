@@ -1,8 +1,28 @@
-div{
-    margin: 1000px;
-    padding: 10px;
+.heading{
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.heading img{
+    margin-top: 10px;
     
+}
+.line{
+    height: 200px;
+   width: 250px;
+   margin-left: 28px;
+}
+
+.navi{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style-type: none;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style-type: none;
 }
