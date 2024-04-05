@@ -1,17 +1,23 @@
+*{
+    margin: -4px;
+}
 .heading{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    /* width: 400px; */
     display: flex;
     justify-content: center;
     align-items: center;
 }
-
-.heading img{
-    margin-top: 10px;
+g{
     
+    margin-bottom: 20px;
+
 }
 .line{
-    height: 200px;
-   width: 250px;
-   margin-left: 28px;
+    height: 65px;
+   width: 270px;
+
 }
 
 .navi{
@@ -20,7 +26,7 @@
     align-items: center;
     list-style-type: none;
 }
-nav{
+navbar{
     display: flex;
     justify-content: space-around;
     align-items: center;
